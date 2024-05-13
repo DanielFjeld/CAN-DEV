@@ -1,0 +1,7 @@
+../Core/Src/main.c:102:6:my_printf.constprop	2
+../Core/Src/main.c:94:6:vprint	2
+../Core/Src/main.c:102:6:my_printf	2
+../Core/Src/main.c:110:6:PWM	1
+../Core/Src/main.c:208:6:SystemClock_Config	4
+../Core/Src/main.c:129:5:main	1
+../Core/Src/main.c:258:6:Error_Handler	1
